@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andrew Shurik</h1>
-<h3 align="center">Full Stack Web Developer and curious lifelong learner</h3>
+<h3 align="center"> Web Developer and curious lifelong learner</h3>
 
-- 🌱 I’m currently learning: **Typescript, Python, Algorithms & Data Structures**
+- 🌱 I’m currently learning: **SAP UI5**
 
 - 📫 How to reach me: **ashurik522@gmail.com**
 
